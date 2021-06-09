@@ -1,3 +1,4 @@
+Hi
 - 👋 Hi, I’m @FMorais01
 - 👀 I’m interested in HTML, JS, CSS
 - 🌱 I’m currently learning HTML
